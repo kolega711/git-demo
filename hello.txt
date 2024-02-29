@@ -15,3 +15,7 @@ teraz vytvorim novu vetvu z vetvy feature a budem ju upravova
 
 teraz sa odohravaju zmeny nad vetvou feature1
     teray spravim commit nad feature1 a nahrajem to na server
+
+vytvoril som novu vetvu z vetvy feature1 a budem ju upravova
+    teray spravim commit nad feature11 a nahrajem to na server
+

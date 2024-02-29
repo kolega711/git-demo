@@ -1,0 +1,59 @@
+[33mcommit 20ad72573f74909f07488627c03eecee774c01df[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m, [m[1;31morigin/feature1[m[33m)[m
+Author: kolega711 <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 19:53:07 2024 +0100
+
+    prvy commit nad feature1
+
+[33mcommit d7c9340b3c55c136d981b6cb22657a4f746443b7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mfeature[m[33m)[m
+Author: kolega711 <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 19:01:39 2024 +0100
+
+    toto je fixny commit pred vytvorenim novej vetvy
+
+[33mcommit 58356fada4daf820564d035f8e626b8322e3267f[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Pavol Soltys <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 16:40:37 2024 +0100
+
+    toto je update pre feature branch!
+
+[33mcommit 526acc1fdb14309103ef9f3f3c69c9625d03629e[m[33m ([m[1;32mmain[m[33m)[m
+Author: Pavol Soltys <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 12:01:57 2024 +0100
+
+    dodatocny commit na main vetve
+
+[33mcommit c4b8eb2dd481fe3e0264f9f1f4a5efbb932a9153[m
+Author: kolega711 <77076189+kolega711@users.noreply.github.com>
+Date:   Thu Feb 29 11:52:47 2024 +0100
+
+    toto som pridal na webe
+    
+    toto som pridal na webe
+
+[33mcommit 4613c8af1b867e355ab77b800f5b173ef055943e[m
+Merge: 6b39579 1e506ba
+Author: Pavol Soltys <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 11:22:13 2024 +0100
+
+    Merge branch 'main' of https://github.com/kolega711/git-demo
+    message
+
+[33mcommit 1e506ba43dbf568b9cd9b07524dcc481dd5067d0[m
+Author: kolega711 <77076189+kolega711@users.noreply.github.com>
+Date:   Thu Feb 29 11:19:59 2024 +0100
+
+    Update hello.txt
+    
+    updatoval som na webe
+
+[33mcommit 6b395797e53c13a4ee959039c9414ec53df122a8[m
+Author: Pavol Soltys <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 11:16:57 2024 +0100
+
+    d
+
+[33mcommit 217921235291136d58b3e8d7822dfd18e73b4cc2[m
+Author: Pavol Soltys <soltys.pavol@gmail.com>
+Date:   Thu Feb 29 11:00:11 2024 +0100
+
+    pridal som subor hello
