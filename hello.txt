@@ -10,3 +10,5 @@ Totot je commit nad feature branch
  dfg
 
 teraz to ulozim pridam do indexu commitnem a vykopnem nagithub
+
+teraz idem vztvorit novu vetvu z main branchu
