@@ -12,3 +12,4 @@ Totot je commit nad feature branch
 teraz to ulozim pridam do indexu commitnem a vykopnem nagithub
 
 teraz idem vztvorit novu vetvu z main branchu
+     teraz vztvorym pull request z webu nad main1
