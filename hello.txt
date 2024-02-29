@@ -7,3 +7,6 @@ toto som pridal na webe
 toto je dodatocny commit pre main branch
 
 Totot je commit nad feature branch
+ dfg
+
+teraz to ulozim pridam do indexu commitnem a vykopnem nagithub
