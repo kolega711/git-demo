@@ -20,3 +20,5 @@ vytvoril som novu vetvu z vetvy feature1 a budem ju upravova
     teray spravim commit nad feature11 a nahrajem to na server
 
 teraz som pridal a upravil na githube obsah a idem ho nahrat nazat do kodu
+
+idem spravit pull nie do mainu
